@@ -1,0 +1,23 @@
+{
+  "type": "list",
+  "headline": "HouseSystem",
+  "extension": "{col:msx-blue}Lite 0.1",
+  "items": [
+    {
+      "title": "YouTube",
+      "action": "link:https://www.youtube.com"
+    },
+    {
+      "title": "Internet",
+      "action": "link:https://www.google.com"
+    },
+    {
+      "title": "Plex",
+      "action": "link:https://app.plex.tv"
+    },
+    {
+      "title": "Settings / Help",
+      "action": "link:https://msx.benzac.de"
+    }
+  ]
+}
