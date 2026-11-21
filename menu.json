@@ -1,23 +1,39 @@
 {
-  "type": "list",
-  "headline": "HouseSystem",
-  "extension": "{col:msx-blue}Lite 0.1",
-  "items": [
+  "type": "pages",
+  "pages": [
     {
-      "title": "YouTube",
-      "action": "link:https://www.youtube.com"
-    },
-    {
-      "title": "Internet",
-      "action": "link:https://www.google.com"
-    },
-    {
-      "title": "Plex",
-      "action": "link:https://app.plex.tv"
-    },
-    {
-      "title": "Settings / Help",
-      "action": "link:https://msx.benzac.de"
+      "items": [
+        {
+          "layout": "1,1,2,3",
+          "label": "Кино",
+          "color": "#151515",
+          "action": "link:https://www.youtube.com"
+        },
+        {
+          "layout": "3,1,2,3",
+          "label": "ТВ",
+          "color": "#151515",
+          "action": "link:https://www.youtube.com"
+        },
+        {
+          "layout": "5,1,2,3",
+          "label": "Видео",
+          "color": "#151515",
+          "action": "link:https://www.youtube.com"
+        },
+        {
+          "layout": "7,1,2,3",
+          "label": "Игры",
+          "color": "#151515",
+          "action": "link:https://www.google.com"
+        },
+        {
+          "layout": "9,1,2,3",
+          "label": "Сайты",
+          "color": "#151515",
+          "action": "link:https://www.google.com"
+        }
+      ]
     }
   ]
 }
